@@ -1,14 +1,15 @@
 # Pattern Printing
 
-This folder contains Java pattern printing programs.
+This folder contains Java programs for pattern printing. These programs help strengthen logic building using nested loops and conditional statements.
 
-## Topics
+## Topics Covered
+
 - Solid Rectangle
 - Hollow Rectangle
 - Half Pyramid
 - Inverted Half Pyramid
-- Inverted Half Pyramid (rotated by 180 degrees)
-- Half Pyramid Numbers
+- Inverted Half Pyramid (180° Rotation)
+- Half Pyramid with Numbers
 - Inverted Half Pyramid with Numbers
 - Floyd's Triangle
 - 0-1 Triangle
@@ -17,4 +18,9 @@ This folder contains Java pattern printing programs.
 - Diamond Pattern
 - Palindromic Pyramid
 - Number Pyramid
-  
+
+## Concepts Practiced
+
+- Nested Loops
+- Conditional Statements
+- Pattern Logic
